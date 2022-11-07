@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.15)  19 SEP 2022 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.15)  7 NOV 2022 13:34
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -555,23 +555,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-[3] (./cm.aux)
+[3] [4] (./cm.aux)
 Package rerunfilecheck Info: File `cm.out' has not changed.
-(rerunfilecheck)             Checksum: 92A8E061BB8D76AB9ED44C92AB54E237;743.
+(rerunfilecheck)             Checksum: BC737380CFE4C67AD1940AD1C643D5FA;911.
  ) 
 Here is how much of TeX's memory you used:
- 17210 strings out of 478268
- 291431 string characters out of 5846347
+ 17213 strings out of 478268
+ 291457 string characters out of 5846347
  641466 words of memory out of 5000000
- 35193 multiletter control sequences out of 15000+600000
+ 35194 multiletter control sequences out of 15000+600000
  480871 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,81p,365b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on cm.pdf (4 pages, 120969 bytes).
+Output written on cm.pdf (5 pages, 122935 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
