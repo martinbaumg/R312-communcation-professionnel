@@ -5,3 +5,9 @@
 \contentsline {subsubsection}{\numberline {1.1.2}La communication}{2}{subsubsection.1.1.2}%
 \contentsline {section}{\numberline {2}CM 2 - 19 septembre 2022}{3}{section.2}%
 \contentsline {section}{\numberline {3}CM 3 - 7 novembre 2022}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}La communication écrite}{4}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}La bonne tenue en présentation}{4}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}La bonne tenue en rédaction}{4}{subsubsection.3.1.2}%
+\contentsline {section}{\numberline {4}CM 4 - 14 novembre 2022}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Bien faire son CV}{5}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}La mise en page}{5}{subsubsection.4.1.1}%
