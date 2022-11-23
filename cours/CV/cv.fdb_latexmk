@@ -1,6 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1668519777 "/Users/martinbaumgaertner/Documents/GitHub/R312-communcation-professionnel/cours/CV/cv.tex" "cv.pdf" "cv" 1668519778
-  "/Users/martinbaumgaertner/Documents/GitHub/R312-communcation-professionnel/cours/CV/cv.tex" 1668519776 17031 9e34b25ebf291f1e0109f9913b00b316 ""
+["bibtex cv"] 1668595160 "cv.aux" "cv.bbl" "cv" 1668595160
+  "/usr/local/texlive/2022/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "cv.aux" 1668595160 1301 081b9f21faaab727b99004e53136bf40 "pdflatex"
+  "publications.bib" 0 -1 0 ""
+  (generated)
+  "cv.bbl"
+  "cv.blg"
+["pdflatex"] 1668595160 "/Users/martinbaumgaertner/Documents/GitHub/R312-communcation-professionnel/cours/CV/cv.tex" "cv.pdf" "cv" 1668595160
+  "/Users/martinbaumgaertner/Documents/GitHub/R312-communcation-professionnel/cours/CV/cv.tex" 1668595159 16986 aa592447e207c2c55973eefdb5f746d9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -19,6 +26,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm" 1254269338 11176 53ebf7a171df1f9447b387b178768bb5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm" 1254269338 11232 955a7245396175d9219648eadc654ac9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm" 1254269338 11252 57c8b53a3aeebba8c17658d4221d47ec ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm" 1254269338 11304 1bf3f99c327bf3c434fc66d6737a89a2 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm" 1254269338 11168 06d87f5698fd1b642d96449b7c8d90b0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm" 1254269338 11316 701b7748a8cc1abea04b4bcc027674ae ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmsso17.tfm" 1254269338 11356 c443b354551592cb6ab466c242281873 ""
@@ -204,9 +212,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1655312611 2826440 b2b41ac5ab26064ea5f14c6d6a4974af ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "cv.aux" 1668519778 1340 b9849cd7c818dfa40bc9db775d7d819c "pdflatex"
-  "cv.out" 1668519778 632 b925fb22c385364c8068dcf757e2f474 "pdflatex"
-  "cv.tex" 1668519776 17031 9e34b25ebf291f1e0109f9913b00b316 ""
+  "cv.aux" 1668595160 1301 081b9f21faaab727b99004e53136bf40 "pdflatex"
+  "cv.bbl" 0 -1 0 "bibtex cv"
+  "cv.out" 1668595160 544 aabc6d4bee90973c04e50b609911a703 "pdflatex"
+  "cv.tex" 1668595159 16986 aa592447e207c2c55973eefdb5f746d9 ""
   (generated)
   "cv.aux"
   "cv.log"

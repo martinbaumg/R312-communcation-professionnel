@@ -1094,6 +1094,8 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT cv.aux
 INPUT ./cv.out
 INPUT ./cv.out

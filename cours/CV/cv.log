@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.15)  15 NOV 2022 14:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.15)  16 NOV 2022 11:39
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -770,23 +770,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--115
 
  []
 
-[2] (./cv.aux)
+No file cv.bbl.
+[2] [3
+
+] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: B925FB22C385364C8068DCF757E2F474;632.
+(rerunfilecheck)             Checksum: AABC6D4BEE90973C04E50B609911A703;544.
  ) 
 Here is how much of TeX's memory you used:
- 26965 strings out of 478268
- 521554 string characters out of 5846347
+ 26984 strings out of 478268
+ 521813 string characters out of 5846347
  831685 words of memory out of 5000000
- 44617 multiletter control sequences out of 15000+600000
- 531889 words of font info for 107 fonts, out of 8000000 for 9000
+ 44622 multiletter control sequences out of 15000+600000
+ 538133 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,12n,122p,1083b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on cv.pdf (2 pages, 196626 bytes).
+Output written on cv.pdf (3 pages, 198827 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
- 34877 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 38965 words of extra memory for PDF output out of 42996 (max. 10000000)
 
